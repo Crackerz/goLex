@@ -1,0 +1,9 @@
+func main() {
+	x = var1+var2/100;
+	y = (x-10)*100;
+	if x>y {
+		return x;
+	} else {
+		return y;
+	}
+}
